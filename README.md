@@ -1,7 +1,5 @@
 # Supply-Chain-Analytics-Project
 
-# Supply Chain Analytics Project
-
 ## Project Overview
 
 This project analyzes end-to-end supply chain performance using Excel, MySQL, and Power BI.
