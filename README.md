@@ -7,7 +7,7 @@ This project analyzes end-to-end supply chain performance using Excel, MySQL, an
 The objective was to identify delivery bottlenecks, evaluate supplier performance, forecast demand, and provide actionable business recommendations.
 
 Tools Used
-Microsoft Excel
+Excel
 MySQL
 Power BI
 Project Components
@@ -18,25 +18,17 @@ Demand forecasting
 Supplier segmentation
 Inventory analysis
 SQL Analysis
-Carrier performance analysis
-Monthly sales trend analysis
-Regional carrier ranking
-Supplier performance JOIN analysis
+Carrier Performance Analysis
+Monthly Sales Trend Analysis
+Regional Carrier Ranking
+Supplier Performance JOIN Analysis
 Power BI Dashboard
-
-Pages included:
-
 Executive Overview
 Delivery Performance
 Cost Analysis
 Supplier Segmentation
 Demand Forecasting
-Key Insights
-Delivery performance varies significantly across carriers.
-Supplier segmentation identified Preferred, Under Watch, and Critical suppliers.
-Demand forecasting revealed highly variable SKU demand patterns.
-Regional analysis highlighted areas with higher delivery delays and logistics costs.
-Repository Contents
+Repository Files
 Excel.zip
 SQL.zip
 Supply_Chain_Dashboard.pbix
@@ -45,3 +37,5 @@ Supply_Chain_Analytics_Report_FINAL.docx
 Author
 
 Harshada Kardile
+
+
